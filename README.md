@@ -23,7 +23,8 @@
 <br/>
 
 <!-- ====================== VS CODE EDITOR: PROFILE.TS ====================== -->
-## 💻 VS Code Workspace (`profile.ts`)
+
+## VS Code Workspace (`profile.ts`)
 
 <p align="left">
   <img src="https://img.shields.io/badge/🔴%20🟡%20🟢-profile.ts--%20Visual%20Studio%20Code-282a36?style=flat-square&logo=typescript&logoColor=3178C6" alt="VS Code Title Bar"/>
@@ -49,22 +50,24 @@ export const abderrazek: EngineerProfile = {
   role: "Software & Cloud Engineer",
   education: [
     "ENSEA Cergy-Pontoise | Diplôme d'Ingénieur (Électronique, Systèmes & IA)",
-    "ENSIT Tunis | Diplôme d'Ingénieur (Informatique & Logiciel)"
+    "ENSIT Tunis | Diplôme d'Ingénieur (Informatique & Logiciel)",
   ],
   specializations: [
     "High-Performance Distributed Architectures & Microservices",
     "Cloud Infrastructure & Infrastructure-as-Code (Terraform, Ansible, K8s)",
     "DevOps Automation, CI/CD Pipelines & Real-time Monitoring",
-    "Generative AI & LLM Production Deployment (RAG, LangChain, Async Processing)"
+    "Generative AI & LLM Production Deployment (RAG, LangChain, Async Processing)",
   ],
-  motto: "Architect resilient cloud platforms, automate delivery, scale with precision."
+  motto:
+    "Architect resilient cloud platforms, automate delivery, scale with precision.",
 };
 ```
 
 <br/>
 
 <!-- ====================== TECH STACK MATRIX ====================== -->
-## 🛠️ Tech Stack & Extensions (`settings.json`)
+
+## Tech Stack & Extensions (`settings.json`)
 
 <p align="left">
   <img src="https://img.shields.io/badge/🔴%20🟡%20🟢-tech--stack.json--%20VS%20Code-282a36?style=flat-square&logo=json&logoColor=f1fa8c" alt="VS Code Json Bar"/>
@@ -115,7 +118,8 @@ export const abderrazek: EngineerProfile = {
 <br/>
 
 <!-- ====================== VS CODE EDITOR: PROJECTS.PY ====================== -->
-## 🚀 Featured Projects (`projects.py`)
+
+## Featured Projects (`projects.py`)
 
 <p align="left">
   <img src="https://img.shields.io/badge/🔴%20🟡%20🟢-projects.py--%20VS%20Code-282a36?style=flat-square&logo=python&logoColor=3776AB" alt="VS Code Python Bar"/>
@@ -158,24 +162,24 @@ class FeaturedProjects:
 <table align="center" width="100%">
   <tr>
     <td width="50%">
-      <h3>🌐 Cloud-Native IaC Infrastructure</h3>
+      <h3> Cloud-Native IaC Infrastructure</h3>
       <p>Automated multi-cloud infrastructure deployment with zero-downtime orchestration.</p>
       <p><b>Tech:</b> Terraform, Ansible, Kubernetes, Prometheus, Grafana, AWS</p>
     </td>
     <td width="50%">
-      <h3>📦 Logistics Predictive AI System</h3>
+      <h3> Logistics Predictive AI System</h3>
       <p>Distributed time-series forecasting platform reducing inventory loss by 20%.</p>
       <p><b>Tech:</b> FastAPI, React, Scikit-learn, GitHub Actions, Docker</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>⚡ High-Performance Async Scraper</h3>
+      <h3> High-Performance Async Scraper</h3>
       <p>High-frequency asynchronous data collector containerized for production scale.</p>
       <p><b>Tech:</b> Python, AsyncIO, Redis Cache, Docker</p>
     </td>
     <td width="50%">
-      <h3>🤖 Serverless IoT & RAG Agent</h3>
+      <h3> Serverless IoT & RAG Agent</h3>
       <p>High-availability IoT sensor pipeline processing 200+ streams with RAG AI agent.</p>
       <p><b>Tech:</b> AWS Lambda, SQS, DynamoDB, LangChain, FastAPI</p>
     </td>
@@ -185,7 +189,8 @@ class FeaturedProjects:
 <br/>
 
 <!-- ====================== TELEMETRY & STATS (DRACULA THEME) ====================== -->
-## 📊 VS Code Telemetry & GitHub Stats
+
+## VS Code Telemetry & GitHub Stats
 
 <p align="left">
   <img src="https://img.shields.io/badge/🔴%20🟡%20🟢-telemetry.log--%20VS%20Code-282a36?style=flat-square&logo=dracula&logoColor=bd93f9" alt="VS Code Telemetry Bar"/>
@@ -205,41 +210,39 @@ class FeaturedProjects:
 <br/>
 
 <!-- ====================== CONTRIBUTION GRAPH ====================== -->
-## 🐍 Activity Graph Matrix
+<!-- ====================== CONTRIBUTIONS ====================== -->
+
+## Contribution Graph
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abderrazekbhr/abderrazekbhr/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abderrazekbhr/abderrazekbhr/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake Contribution Graph" src="https://raw.githubusercontent.com/abderrazekbhr/abderrazekbhr/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
 
-<br/>
-
-<!-- ====================== VS CODE INTEGRATED TERMINAL ====================== -->
-## 🤝 Integrated Terminal (`zsh`)
-
-<p align="left">
-  <img src="https://img.shields.io/badge/🔴%20🟡%20🟢-Integrated%20Terminal--%20zsh-282a36?style=flat-square&logo=gnumeterminal&logoColor=50fa7b" alt="VS Code Terminal Bar"/>
-</p>
-
-```bash
-$ echo "Let's architect scalable cloud solutions & AI systems together 🚀"
-$ whoami
-> abderrazekBhr · Open for technical consulting, cloud architectures & AI collaborations
-```
-
+<!-- ====================== QUOTE ====================== -->
 <div align="center">
 
-<a href="https://www.linkedin.com/in/abderrazek-bel-haj-rhouma/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/abderrazekBhr"><img src="https://img.shields.io/badge/GitHub-282a36?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="mailto:abderrazek.belhajrhouma@ensea.fr"><img src="https://img.shields.io/badge/Email-ff5555?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
+  <img alt="quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</picture>
 
-<br/><br/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,40:bd93f9,80:ff79c6,100:21222c&height=120&section=footer" alt="Footer Banner"/>
+<!-- ====================== FOOTER ====================== -->
+
+## Let's Connect
+
+```bash
+$ echo "Let's build something great together 🚀"
+$ whoami
+> abderrazekBhr · open to collaborations, open-source & cool SaaS ideas
+```
 
 </div>
