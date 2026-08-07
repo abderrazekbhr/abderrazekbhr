@@ -188,42 +188,6 @@ class FeaturedProjects:
 
 <br/>
 
-<!-- ====================== TELEMETRY & STATS (DRACULA THEME) ====================== -->
-
-## VS Code Telemetry & GitHub Stats
-
-<p align="left">
-  <img src="https://img.shields.io/badge/🔴%20🟡%20🟢-telemetry.log--%20VS%20Code-282a36?style=flat-square&logo=dracula&logoColor=bd93f9" alt="VS Code Telemetry Bar"/>
-</p>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=abderrazekbhr&theme=dracula&hide_border=true&background=282a36&ring=bd93f9&fire=ff79c6&currStreakLabel=8be9fd" alt="GitHub Streak Stats"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=abderrazekbhr&show_icons=true&theme=dracula&hide_border=true&title_color=bd93f9&icon_color=ff79c6&text_color=f8f8f2" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abderrazekbhr&layout=compact&theme=dracula&hide_border=true&title_color=bd93f9&text_color=f8f8f2" alt="Top Languages"/>
-
-</div>
-
-<br/>
-
-<!-- ====================== CONTRIBUTION GRAPH ====================== -->
-<!-- ====================== CONTRIBUTIONS ====================== -->
-
-## Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-</div>
-
 <!-- ====================== QUOTE ====================== -->
 <div align="center">
 
